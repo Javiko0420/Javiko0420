@@ -6,7 +6,7 @@
 
 ### ⚡ INITIALIZING SYSTEM INTERFACE...
 
-![Visitor Count](https://profile-counter.glitch.me/javiwarrior/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=Javiko0420&label=SYSTEM+ACCESS&style=flat-square&color=00BFFF)
 
 **`[ LOCATION: AUSTRALIA ]`** &nbsp; **`[ ROLE: SOFTWARE DEV TRAINEE ]`** &nbsp; **`[ STATUS: BUILDING THE FUTURE ]`**
 
@@ -22,7 +22,7 @@ Hello, I am **Javier Felipe Guerrero Zambrano**. Welcome to my personal terminal
 
 <div align="center">
   <a href="https://javiwarrior.com">
-    <img src="./javiwarriorhud.gif" alt="JaviWarrior System Interface" width="100%" style="border-radius: 10px; border: 2px solid #00BFFF; box-shadow: 0 0 15px #00BFFF;">
+    <img src="./public/images/javiwarriorhud.gif" alt="JaviWarrior System Interface" width="100%" style="border-radius: 10px; border: 2px solid #00BFFF; box-shadow: 0 0 15px #00BFFF;">
   </a>
   <p><em>[ SYSTEM STATUS: OPERATIONAL AT JAVIWARRIOR.COM ]</em></p>
 </div>
