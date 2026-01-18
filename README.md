@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=JAVIER%20GUERRERO&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=System%20Online%20:%20JaviWarrior&descSize=20&descAlignY=60&descAlign=50" alt="Header JaviWarrior" />
+  <img src="./header.svg" alt="Javier Guerrero Stark Interface Header" width="100%" />
 </div>
 
 <div align="center">
