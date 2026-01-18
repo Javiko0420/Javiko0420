@@ -22,7 +22,7 @@ Hello, I am **Javier Felipe Guerrero Zambrano**. Welcome to my personal terminal
 
 <div align="center">
   <a href="https://javiwarrior.com">
-    <img src="./public/images/javiwarriorhud.gif" alt="JaviWarrior System Interface" width="100%" style="border-radius: 10px; border: 2px solid #00BFFF; box-shadow: 0 0 15px #00BFFF;">
+    <img src="./assets/javiwarriorhud.gif" alt="JaviWarrior System Interface" width="100%" style="border-radius: 10px; border: 2px solid #00BFFF; box-shadow: 0 0 15px #00BFFF;">
   </a>
   <p><em>[ SYSTEM STATUS: OPERATIONAL AT JAVIWARRIOR.COM ]</em></p>
 </div>
@@ -114,6 +114,7 @@ print(javi.mission())
 
 **Thanks for visiting my terminal. Feel free to explore my repositories!**
 
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Javiko0420/Javiko0420/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
