@@ -66,7 +66,12 @@ print(javi.mission())
 
 <div align="center">
   <a href="https://github.com/Javiko0420">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Javiko0420&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=00BFFF&dates=00BFFF" height="165" alt="JaviWarrior Streak" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Javiko0420&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="118em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Javiko0420&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
+  </a>
+  <br/>
+  <a href="https://github.com/Javiko0420">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Javiko0420&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=00BFFF&dates=00BFFF" height="180" alt="JaviWarrior Streak" />
   </a>
 </div>
 
