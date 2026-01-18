@@ -8,7 +8,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Javiko0420&label=SYSTEM+ACCESS&style=flat-square&color=00BFFF)
 
-**`[ LOCATION: AUSTRALIA ]`** &nbsp; **`[ ROLE: SOFTWARE DEV TRAINEE ]`** &nbsp; **`[ STATUS: BUILDING THE FUTURE ]`**
+**`[ LOCATION: AUSTRALIA ]`** &nbsp; **`[ ROLE: FULL STACK DEV ]`** &nbsp; **`[ STATUS: BUILDING THE FUTURE ]`**
 
 </div>
 
@@ -62,11 +62,16 @@ print(javi.mission())
 
 ---
 
-## 📊 < SYSTEM_ANALYTICS >
+### 📊 < SYSTEM_ANALYTICS >
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Javiko0420&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Javiko0420&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" height="165" />
+  <a href="https://github.com/Javiko0420">
+    <img src="https://github-readme-stats.vercel.app/api?username=Javiko0420&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF" height="165" alt="JaviWarrior Stats" />
+  </a>
+
+  <a href="https://github.com/Javiko0420">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Javiko0420&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=00BFFF&dates=00BFFF" height="165" alt="JaviWarrior Streak" />
+  </a>
 </div>
 
 <div align="center">
