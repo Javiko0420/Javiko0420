@@ -114,8 +114,9 @@ print(javi.mission())
 
 **Thanks for visiting my terminal. Feel free to explore my repositories!**
 
-![Snake animation](https://raw.githubusercontent.com/Javiko0420/Javiko0420/output/github-contribution-grid-snake-dark.svg)
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Javiko0420/Javiko0420/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
 
 <div align="center">
