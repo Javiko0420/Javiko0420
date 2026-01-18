@@ -97,7 +97,7 @@ print(javi.mission())
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-javiwarrior.com-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://javiwarrior.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/javiwarrior)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-felipe-guerrero-zambrano-8951282b/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@javiwarrior.com)
 
 </div>
