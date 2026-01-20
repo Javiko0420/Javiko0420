@@ -70,9 +70,9 @@ print(javi.mission())
     <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Javiko0420&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
   </a>
   <br/>
-  <!-- <a href="https://github.com/Javiko0420">
+  <a href="https://github.com/Javiko0420">
     <img height="182" src="https://streak-stats.demolab.com/?user=Javiko0420&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=00BFFF&dates=00BFFF" alt="JaviWarrior Streak" />
-  </a> -->
+  </a>
 </div>
 
 ---
