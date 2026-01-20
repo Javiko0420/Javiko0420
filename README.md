@@ -67,7 +67,7 @@ print(javi.mission())
 <div align="center">
   <a href="https://github.com/Javiko0420">
     <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Javiko0420&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="220" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Javiko0420&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javiko0420&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF&hide_progress=true" alt="Top Languages" />
   </a>
   <br/>
   <a href="https://github.com/Javiko0420">
