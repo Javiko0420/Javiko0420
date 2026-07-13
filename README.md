@@ -1,122 +1,104 @@
 <div align="center">
-  <img src="./header.svg" alt="Javier Guerrero Stark Interface Header" width="100%" />
-</div>
-
-<div align="center">
-
-### ⚡ INITIALIZING SYSTEM INTERFACE...
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Javiko0420&label=SYSTEM+ACCESS&style=flat-square&color=00BFFF)
-
-**`[ LOCATION: AUSTRALIA ]`** &nbsp; **`[ ROLE: FULL STACK DEV ]`** &nbsp; **`[ STATUS: BUILDING THE FUTURE ]`**
-
-</div>
-
----
-
-## 📂 < WORKSPACE_MODULE >
-
-> *"Technology is not just code; it represents the architecture of tomorrow."*
-
-Hello, I am **Javier Felipe Guerrero Zambrano**. Welcome to my personal terminal. I am a Software Analysis and Development Technologist with an obsessive focus on **Cybersecurity**, **Artificial Intelligence**, and **Clean Architecture**.
-
-<div align="center">
   <a href="https://javiwarrior.com">
-    <img src="./assets/javiwarriorhud.gif" alt="JaviWarrior System Interface" width="100%" style="border-radius: 10px; border: 2px solid #00BFFF; box-shadow: 0 0 15px #00BFFF;">
+    <img src="./header.svg" alt="Javier Guerrero — JaviWarrior · Full Stack Developer, security-first mindset" width="100%" />
   </a>
-  <p><em>[ SYSTEM STATUS: OPERATIONAL AT JAVIWARRIOR.COM ]</em></p>
 </div>
 
----
+## About
 
-## 📡 < DATA_STREAM >
+Hi, I'm **Javier** — also known as **JaviWarrior**. I'm a Software Analysis & Development Technologist building web and mobile products with a security-first mindset. Founder of [Latin Territory](https://latinterritory.com), a platform connecting the Latin community across Australia.
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Javier Guerrero"
-        self.alias = "JaviWarrior"
-        self.stack = ["Python", "Secure Dev", "AI Solutions"]
-        self.location = "Brisbane, Australia"
-        
-    def mission(self):
-        return "Building secure, scalable, and futuristic software solutions."
-
-javi = Developer()
-print(javi.mission())
+```ts
+const javiWarrior = {
+  location: "Brisbane, Australia",
+  stack: ["Next.js", "TypeScript", "Flutter", "Supabase"],
+  focus: ["Cybersecurity", "AI", "Clean Architecture"],
+  currently: "Building Latin Territory 🌏",
+  motto: "The best way to predict the future is to create it",
+} as const;
 ```
 
----
+## Stack
 
-## 🛠 < TECH_ARSENAL >
+<table>
+  <tr>
+    <td><code>FRONTEND</code></td>
+    <td>
+      <img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td><code>MOBILE</code></td>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-161B22?style=flat-square&logo=flutter&logoColor=54C5F8" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Dart-161B22?style=flat-square&logo=dart&logoColor=29B6F6" alt="Dart" />
+    </td>
+  </tr>
+  <tr>
+    <td><code>BACKEND&nbsp;&amp;&nbsp;DATA</code></td>
+    <td>
+      <img src="https://img.shields.io/badge/Supabase-161B22?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
+      <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+    </td>
+  </tr>
+  <tr>
+    <td><code>SECURITY&nbsp;&amp;&nbsp;OPS</code></td>
+    <td>
+      <img src="https://img.shields.io/badge/OWASP-161B22?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
+      <img src="https://img.shields.io/badge/Vercel-161B22?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Cloudflare-161B22?style=flat-square&logo=cloudflare&logoColor=F38020" alt="Cloudflare" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-161B22?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/Linux-161B22?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
+## Featured
 
-| **Core Systems** | **Tools & Utils** | **Deployment** |
-| :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
-| ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+<table width="100%">
+  <tr>
+    <td>
+      <h3>🌏 Latin Territory <sup><code>WEB + MOBILE</code></sup></h3>
+      <p>Directory platform connecting Latin businesses, services and community across Australia — web app in Next.js/TypeScript, mobile app in Flutter, backed by Supabase.</p>
+      <p><code>NEXT.JS</code> <code>TYPESCRIPT</code> <code>FLUTTER</code> <code>SUPABASE</code></p>
+      <p>
+        <a href="https://latinterritory.com">🔗 latinterritory.com</a> ·
+        <a href="https://github.com/Javiko0420/plataforma-colombiana">📂 Web repo</a> ·
+        <a href="https://github.com/Javiko0420/latinterritory-mobile">📱 Mobile repo</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-</div>
+<table width="100%">
+  <tr>
+    <td>⚔️ <a href="https://javiwarrior.com"><b>javiwarrior.com</b></a> — Personal site &amp; portfolio: projects, experiments and how to reach me.</td>
+  </tr>
+</table>
 
----
-
-### 📊 < SYSTEM_ANALYTICS >
+## Analytics
 
 <div align="center">
   <a href="https://github.com/Javiko0420">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Javiko0420&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javiko0420&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF&hide_progress=true" alt="Top Languages" />
-  </a>
-  <br/>
-  <a href="https://github.com/Javiko0420">
-    <img height="182" src="https://streak-stats.demolab.com/?user=Javiko0420&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=00BFFF&dates=00BFFF" alt="JaviWarrior Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Javiko0420&show_icons=true&hide_border=true&bg_color=0A0F14&title_color=00BFFF&text_color=8B949E&icon_color=00BFFF&include_all_commits=true&count_private=true" alt="Javier's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javiko0420&layout=compact&hide_border=true&bg_color=0A0F14&title_color=00BFFF&text_color=8B949E&langs_count=6" alt="Top languages" />
   </a>
 </div>
 
----
+## Connect
 
-## 🎯 < CURRENT_OBJECTIVES >
-
-```
-[ MISSION LOG ]
-├── 🔐 Mastering Cybersecurity Protocols
-├── 🤖 Exploring AI/ML Solutions
-├── 🏗️ Building Clean Architecture Projects
-└── 📚 Continuous Learning & Growth
-```
-
----
-
-## 🌐 < COMMUNICATION_CHANNELS >
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-javiwarrior.com-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://javiwarrior.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-felipe-guerrero-zambrano-8951282b/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javiguerreroz86@gmail.com)
-
-</div>
+<p>
+  <a href="https://javiwarrior.com"><img src="https://img.shields.io/badge/javiwarrior.com-161B22?style=flat-square&logo=googlechrome&logoColor=00BFFF" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/javier-felipe-guerrero-zambrano-8951282b/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square" alt="LinkedIn" /></a>
+  <a href="mailto:javiguerreroz86@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+</p>
 
 ---
 
 <div align="center">
-
-### 💡 < SYSTEM_MESSAGE >
-
-```
-"The best way to predict the future is to create it."
-```
-
-**Thanks for visiting my terminal. Feel free to explore my repositories!**
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Javiko0420/Javiko0420/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer" alt="Footer" />
+  <img src="https://raw.githubusercontent.com/Javiko0420/Javiko0420/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </div>
