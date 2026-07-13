@@ -22,6 +22,7 @@ eléctrico, chips minimalistas. Personalidad sin ruido.
 | Fondo header/cards | `#090D13` / `#0A0F14` | superficies propias en SVG e imágenes |
 | Superficie | `#161B22` | fondo de badges |
 | Bordes | `#21262D` / `#30363D` | contornos sutiles |
+| Borde card header | `#1C2530` | borde azulado del `header.svg` (gobierna el mockup aprobado; decisión de Javier 2026-07-13) |
 | Texto principal | `#F0F6FC` | títulos |
 | Texto secundario | `#8B949E` | descripciones, labels |
 | Acento | `#00BFFF` | único color de marca (continuidad con javiwarrior.com) |

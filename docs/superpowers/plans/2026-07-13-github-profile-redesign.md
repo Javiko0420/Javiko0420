@@ -10,7 +10,7 @@
 
 ## Global Constraints
 
-- Paleta exacta del spec: fondos `#090D13`/`#0A0F14`, superficie `#161B22`, bordes `#21262D`/`#30363D`, texto `#F0F6FC`/`#8B949E`, acento único `#00BFFF`.
+- Paleta exacta del spec: fondos `#090D13`/`#0A0F14`, superficie `#161B22`, bordes `#21262D`/`#30363D` (más `#1C2530` exclusivo para el borde de la card del header), texto `#F0F6FC`/`#8B949E`, acento único `#00BFFF`.
 - **Prohibido** en SVGs: `@import`, fuentes externas (fonts.googleapis.com), `foreignObject` para texto. Solo font stacks del sistema.
 - Badges shields.io **solo** `style=flat-square` con fondo `161B22`. Nunca `for-the-badge`.
 - Todo el contenido del README en **inglés**.
