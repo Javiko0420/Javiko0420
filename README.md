@@ -84,8 +84,8 @@ const javiWarrior = {
 
 <div align="center">
   <a href="https://github.com/Javiko0420">
-    <img src="https://github-readme-stats.vercel.app/api?username=Javiko0420&show_icons=true&hide_border=true&bg_color=0A0F14&title_color=00BFFF&text_color=8B949E&icon_color=00BFFF&include_all_commits=true&count_private=true" alt="Javier's GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javiko0420&layout=compact&hide_border=true&bg_color=0A0F14&title_color=00BFFF&text_color=8B949E&langs_count=6" alt="Top languages" />
+    <img src="https://jw-github-stats.vercel.app/api?username=Javiko0420&show_icons=true&hide_border=true&bg_color=0A0F14&title_color=00BFFF&text_color=8B949E&icon_color=00BFFF&include_all_commits=true&count_private=true" alt="Javier's GitHub stats" />
+    <img src="https://jw-github-stats.vercel.app/api/top-langs/?username=Javiko0420&layout=compact&hide_border=true&bg_color=0A0F14&title_color=00BFFF&text_color=8B949E&langs_count=6" alt="Top languages" />
   </a>
 </div>
 
